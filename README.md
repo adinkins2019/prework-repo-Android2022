@@ -3,11 +3,11 @@ This repo provides the prework submission for CodePath's 2022 Spring Android cla
 
 # Project 1 - *Simple ToDo App*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple ToDo App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Antonio Dinkins**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -29,9 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<video controls title="Video walkthrough">
-    <source src="https://i.imgur.com/CVcwKhd.mp4" type="video/mp4">    
-</video>
+<img src="./video-walkthrough.gif" title="Video Walkthrough" alt="Video Walkthrough" />
 
 ## Notes
 
